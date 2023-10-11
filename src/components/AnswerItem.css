@@ -1,0 +1,21 @@
+.answer-item__container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2.5rem;
+}
+
+.answer-button__details {
+  cursor: pointer;
+  text-align: center;
+  outline: none;
+  border: none;
+  font-family: inherit;
+  border-radius: 12px;
+  background-color: #22b8cf;
+  padding: 1.5rem 2rem;
+  width: 400px;
+  font-size: 2.6rem;
+  color: #fff;
+  font-weight: 500;
+}
